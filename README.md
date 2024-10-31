@@ -72,8 +72,8 @@ Este proyecto es una aplicación de Todo construida con **Next.js**, con una API
 
 ### Rutas Clave
 
-/auth: Para autenticarse y registrar nuevos usuarios.
-/profile: Perfil del usuario y gestión de tareas (protegido con JWT).
+- /auth: Para autenticarse y registrar nuevos usuarios.
+- /profile: Perfil del usuario y gestión de tareas (protegido con JWT).
 
 ## 3. Explicación Técnica
 
